@@ -4,9 +4,6 @@
 
 ## Introduction
 Heart disease is one of the leading causes of death worldwide. Early detection and intervention are crucial in reducing the mortality rate. This project leverages machine learning techniques to predict the risk of a heart attack using patient health data. The objective is to build a model that can provide real-time predictions, helping healthcare professionals make better-informed decisions.
-
-# About
-
 This project aims to predict the likelihood of a heart attack using a data set that includes various health and lifestyle factors. The prediction is based on the identification of key features that contribute significantly to the assessment of heart attack risk.
 
 ## Features
@@ -48,12 +45,6 @@ This project consists of:
 - **Model building**: Training and evaluating multiple machine learning models.
 - **Model deployment**: Building a web application for real-time predictions using the trained model.
 
-## Features
-- Predict heart attack risk using clinical health indicators such as cholesterol, blood pressure, and other metrics.
-- A user-friendly web interface for inputting patient data and receiving predictions.
-- Models optimized through hyperparameter tuning to enhance accuracy.
-  
+## Methodology
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/omarEssam-11/heart-attack-prediction.git
+The predictive model will focus on selecting the most informative features from the dataset to improve the accuracy of heart attack risk predictions. By analyzing and prioritizing key factors, the model aims to provide valuable information to identify individuals at higher risk of having a heart attack.
